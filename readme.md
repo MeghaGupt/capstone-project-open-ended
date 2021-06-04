@@ -1,5 +1,5 @@
 Project Description:
-Sentimental analsyis for stock price prediction. In this project, we are trying to undertsand how human sentiments effects the stock price movement. For this project, we are downloading retweet from twitter and stocks intraday pricess using alpha advabtage api. 
+Sentimental analsyis for stock price prediction. In this project, we are trying to undertsand how human sentiments effect the stock price movement. For this project, we are downloading retweet from twitter and stocks intraday pricess using alpha advabtage api. 
 
 
 Data collection Process:
